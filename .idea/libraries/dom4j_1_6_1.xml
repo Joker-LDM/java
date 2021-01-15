@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dom4j-1.6.1">
+    <CLASSES>
+      <root url="jar://F:/1+X大数据应用(java)开发职业技能/所需的jar包/dom4j-1.6.1.jar!/" />
+      <root url="jar://F:/1+X大数据应用(java)开发职业技能/所需的jar包/jaxen-1.1-beta-6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
