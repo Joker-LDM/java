@@ -1,4 +1,4 @@
-package Jihe;
+package test;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,12 +7,8 @@ public class test {
     public static void main(String[] args) {
         List list =new ArrayList();
         list.add(1);
-        list.add("娌虫睜瀛﹂櫌");
-
-
+        list.add("河池学院");
     for (Object Lst:list)
-        System.out.println("褰撳墠闆嗗悎鐨勫厓绱犱釜鏁帮細"+Lst);
-
+        System.out.println("当前集合的元素个数："+Lst);
     }
-
 }

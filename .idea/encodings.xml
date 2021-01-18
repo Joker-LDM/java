@@ -2,10 +2,13 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/duoxiancheng/Client.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/duoxiancheng/Client.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/duoxiancheng/Client.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/duoxiancheng/GetMessageThread.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/duoxiancheng/SocketDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/shujuku/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/shujuku/LoginThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/shujuku/MD5.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/shurushuchu/io.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/Lianjie.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/test.java" charset="GBK" />
   </component>
 </project>
